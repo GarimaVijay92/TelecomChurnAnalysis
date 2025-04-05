@@ -12,3 +12,14 @@ The key here was creating normalised value factors and churn risk factors, to lo
 The normalised value factor looked at how "high value" the customer was by applying a ratio of the charges, tenure and referrals. So, a long term customer with high monthly charges and multiple referrals would achieve a higher score.
 
 The normalised churn factor was a little more tricky, and my attempt at a rudimentary naive bayes. This examined the variance from the average churn rate for each characteristic, summed the variances, and then normalised the value. This allowed the creation of the scatterplot profile showing the prevalence of churned customers with low risk factor ratings.
+
+# Analysis
+<img width="590" alt="image" src="https://github.com/user-attachments/assets/3e638b8e-46d4-4c63-a43f-087bf82430d3" />
+
+<img width="593" alt="image" src="https://github.com/user-attachments/assets/0ea77868-dbca-4ec2-89e1-8e5a42c3dec2" />
+
+# Recommendations
+<img width="604" alt="image" src="https://github.com/user-attachments/assets/a53ecfd8-6df7-4bae-acf9-021f556ef3c9" />
+
+
+
